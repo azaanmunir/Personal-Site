@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 50px;
+  border-width: 5px;
+  color: #F3F2F1;
+}
+
+.navi-bar {
+  background-color: #E1EBE8;
+  width: 100%;
+  height: 150px;
+}
+
+.logo-style {
+  display: inline-block;
+  position: absolute;
+  top: 35px;
+  left: 460px;
+}
+
+.navi-tabs {
+  display: inline-block;
+  width: 95px;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #55B29B;
+  text-decoration: none;
+  position: relative;
+  top: 70px;
+  left: 400px;
+}
+
+
+.top-container {
+  background-color: #E1EBE8;
+  position: relative;
+  padding-top: 55px;
+}
+
+
+.middle-container {
+  width: auto;
+  height: 500px;
+}
+
+.middle-image {
+  margin-top: 100px;
+  width: 150px;
+  height: 150px;
+}
+
+.middle-h1 {
+  font-family: 'Merriweather', serif;
+  color: #55B29B;
+  margin-top: 30px;
+}
+
+.middle-p1 {
+  font-family: inherit;
+  font-size: 20px;
+  color: #444444;
+
+}
+
+
+.bottom-container {
+  width: auto;
+  height: 500px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 170px;
+  left: 500px;
+  bottom: 300px;
+}
+
+.bottom-h1 {
+  color: #2E846D;
+  font-size: 42px;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-image {
+  margin-top: 90px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  position: absolute;
+  left: 600px;
+}
+
+.bottom-h2 {
+  text-align: left;
+  color: #55B29B;
+  font-family: 'Merriweather', serif;
+  display: inline-block;
+  margin-top: 100px;
+  position: relative;
+  left: 55px;
+}
+
+.bottom-p1 {
+  margin-top: 0;
+  text-align: left;
+  color: #444444;
+  font-family: sans-serif;
+  font-size: 20px;
+  position: absolute;
+  right: 645px;
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  width: 170px;
+  right: 500px;
+  top: 50px;
+}
+
+/*
+.heading-1 {
+  font-size: 76px;
+  font-family: 'Mrs Saint Delafield', cursive;
+  color: #55B29B;
+}
+*/
+
+.paragraph-1 {
+  font-family: sans-serif;
+  font-size: 25px;
+  color: #55B29B;
+  position: relative;
+  bottom: 15px;
+}
+
+.mountain-BG {
+  width: auto;
+  position: relative;
+  top: 4px;
+}
